@@ -4,5 +4,4 @@
 
 - [Free Republic of Liberland Constitution draft](constitution.md)
 
-
-Original source: http://liberland.org/en/constitution/
+This is actual mirror of official source at http://liberland.org/en/constitution/
