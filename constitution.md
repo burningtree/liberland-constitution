@@ -26,11 +26,11 @@ We, the Citizens of the Free Republic of Liberland, in order to establish justic
   - **§12(1)** to protect the rights of the people to their persons and property;
   - **§12(2)** to conduct the financial affairs of the Public Administration;
   - **§12(3)** to lay and collect taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §15, for one or more of the following purposes only:
-  - **§12(3)(**a) providing for the common defense;
-  - **§12(3)(**b) covering the expenses of the Public Administration;
-  - **§12(3)(**c) maintaining the internal security;
-  - **§12(3)(**d) providing for the Administration of Justice;
-  - **§12(3)(**e) securing and promoting the interests of the Free Republic of Liberland worldwide.
+    - **§12(3)(a)** providing for the common defense;
+    - **§12(3)(b)** covering the expenses of the Public Administration;
+    - **§12(3)(c)** maintaining the internal security;
+    - **§12(3)(d)** providing for the Administration of Justice;
+    - **§12(3)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
   - **§12(4)** to declare war in defense only of the Free Republic of Liberland, and to make peace, and to raise and support a military force to that end only;
   - **§12(5)** to establish a militia to maintain the internal security;
   - **§12(6)** to vest the appointment of such officers whose appointments are not herein otherwise provided for;

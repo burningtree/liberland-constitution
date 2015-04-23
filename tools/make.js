@@ -6,7 +6,8 @@ var nodePath = require('path');
 var source = 'http://liberland.org/en/constitution/';
 var target = nodePath.resolve(__dirname, '../constitution.md');
 var rIndex = /^§([\d]+\.?)\s/;
-var rSubIndex = /^§([\d\(\)]+)/;
+var rSubIndex = /^§(\d+\(\d+\))\s/;
+var rSubSubIndex = /^§(\d+\(\d+\)\([a-z]+\))\s/;
 
 request(source, function(err, res, body) {
   var $ = cheerio.load(body);
@@ -33,7 +34,12 @@ request(source, function(err, res, body) {
     }
     if(l.match(rSubIndex)) {
       l = l.replace(rSubIndex, function(m) {
-        return '  - **' + m + '**';
+        return '  - **' + m.trim() + '** ';
+      });
+    }
+    if(l.match(rSubSubIndex)) {
+      l = l.replace(rSubSubIndex, function(m) {
+        return '    - **' + m.trim() + '** ';
       });
     }
     output.push(l);
