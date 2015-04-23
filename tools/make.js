@@ -4,7 +4,7 @@ var cheerio = require('cheerio');
 var nodePath = require('path');
 
 var source = 'http://liberland.org/en/constitution/';
-var target = nodePath.resolve(__dirname, '../constitution.md');
+var target = nodePath.resolve(__dirname, '../Constitution.md');
 var rIndex = /^§([\d]+\.?)\s/;
 var rSubIndex = /^§(\d+\(\d+\))\s/;
 var rSubSubIndex = /^§(\d+\(\d+\)\([a-z]+\))\s/;
