@@ -1,6 +1,7 @@
 NODE = node
-PANDOC = pandoc --tab-stop=2
-TARGETDIR = dist/
+MD_SOURCE = constitution.md
+PANDOC = pandoc --tab-stop=2 $(MD_SOURCE)
+TARGET_DIR = dist/
 
 all: build gen
 
@@ -8,6 +9,6 @@ build:
 	$(NODE) tools/make.js
 
 gen:
-	$(PANDOC) -V geometry:margin=1in constitution.md -o $(TARGETDIR)Constitution.pdf
-	$(PANDOC) constitution.md -o $(TARGETDIR)Constitution.html
-	$(PANDOC) constitution.md -o $(TARGETDIR)Constitution.epub
+	$(PANDOC) -V geometry:margin=1in -o $(TARGET_DIR)Constitution.pdf
+	$(PANDOC) -o $(TARGET_DIR)Constitution.html
+	$(PANDOC) -o $(TARGET_DIR)Constitution.epub

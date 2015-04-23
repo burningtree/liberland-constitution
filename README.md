@@ -4,6 +4,9 @@
 
 This is actual mirror of official source at http://liberland.org/en/constitution/
 
+Last changed: Thu 23 Apr 2015 12:55:22 GMT+0200 (CEST)
+<!-- lastRevisionHash: 5ae8c7e38337fba46d145fa6e67929deb29125b4 -->
+
 **Notice: this is NOT a final version of Constitution, it is just a draft!**
 
 - [Free Republic of Liberland Constitution draft](Constitution.md)
