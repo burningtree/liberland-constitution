@@ -6,7 +6,7 @@ var crypto = require('crypto');
 
 var readmeFile = nodePath.resolve(__dirname, '../README.md');
 var source = 'http://liberland.org/en/constitution/';
-var target = nodePath.resolve(__dirname, '../Constitution.md');
+var target = nodePath.resolve(__dirname, '../Liberland-Constitution.md');
 var rIndex = /^§([\d]+\.?)\s/;
 var rSubIndex = /^§(\d+\(\d+\))\s/;
 var rSubSubIndex = /^§(\d+\(\d+\)\([a-z]+\))\s/;

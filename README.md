@@ -9,7 +9,7 @@ Last changed: Thu 23 Apr 2015 12:55:22 GMT+0200 (CEST)
 
 **Notice: this is NOT a final version of Constitution, it is just a draft!**
 
-- [Free Republic of Liberland Constitution draft](Constitution.md)
+- [Free Republic of Liberland Constitution draft](Liberland-constitution.md)
 
 Download in formats: [Markdown], [PDF], [HTML], [ePub]  
 
@@ -18,7 +18,7 @@ Download in formats: [Markdown], [PDF], [HTML], [ePub]
 More info about Liberland - http://liberland.org
 
 
-[Markdown]: https://github.com/burningtree/liberland-constitution/raw/master/Constitution.md
-[PDF]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Constitution.pdf
-[ePub]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Constitution.epub
-[HTML]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Constitution.html
+[Markdown]: https://github.com/burningtree/liberland-constitution/raw/master/Liberland-constitution.md
+[PDF]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Liberland-constitution.pdf
+[ePub]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Liberland-constitution.epub
+[HTML]: https://github.com/burningtree/liberland-constitution/raw/master/dist/Liberland-constitution.html
