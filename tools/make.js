@@ -72,7 +72,7 @@ request(source, function(err, res, body) {
   var lastRevisionData = lastRevision(readmeFile);
   if(hash !== lastRevisionData.hash) {
     console.log('New revision: '+hash);
-    lastRevisionData = updateLastRevision();
+    lastRevisionData = updateLastRevision(hash);
   }
 
   res = res.replace('#LASTCHANGED', lastRevisionData.time);
