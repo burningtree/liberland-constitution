@@ -6,7 +6,7 @@ This is actual mirror of official source at http://liberland.org/en/constitution
 
 **Notice: this is NOT a final version of Constitution, it is just a draft!**
 
-- [Free Republic of Liberland Constitution draft](constitution.md)
+- [Free Republic of Liberland Constitution draft](Constitution.md)
 
 ## About Liberland
 
