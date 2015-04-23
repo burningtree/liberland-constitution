@@ -18,6 +18,9 @@ request(source, function(err, res, body) {
 
   text.forEach(function(l) {
     l = l.trim();
+    if(l.match(/^We, the Citizens/)) {
+      l = '*' + l + '*';
+    }
     if(l.match(/^Notice/)) {
       l = '> '+l;
     }
