@@ -2,11 +2,10 @@
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
-We, the Citizens of the Free Republic of Liberland, in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial power restricted by the Bill of Rights. 
-
+We, the Citizens of the Free Republic of Liberland, in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial power restricted by the Bill of Rights.
 
 ## Article I: The Legislative Power
- 
+
 - **§1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.
 - **§2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
 - **§3.** No Assembly Representative shall hold the office for more than eight years.
@@ -47,7 +46,7 @@ We, the Citizens of the Free Republic of Liberland, in order to establish justic
 - **§19.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Assembly Speaker, or if unable by another senior officer of the Assembly, which must take place within three working days after a Bill became Act, unless stated otherwise in the Act itself.
 
 ## Article II: The Executive Power
- 
+
 - **§1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
 - **§2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
 - **§3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary and expedient thereby initiating a legislative procedure in accordance with the provisions of Article I.
@@ -69,7 +68,7 @@ We, the Citizens of the Free Republic of Liberland, in order to establish justic
 - **§7.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
 
 ## Article III: The Judicial Power
- 
+
 - **§1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
   - **§2** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
 - **§3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
@@ -81,18 +80,16 @@ We, the Citizens of the Free Republic of Liberland, in order to establish justic
 - **§9.** It shall be the duty of the Judiciary to strike down as void and unlawful any laws in conflict with the Constitution.
 
 ## Bill of Rights
- 
+
 The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon all branches of the Public Administration. The following rights shall apply equally to all persons regardless of their citizenship, gender, ethnicity, opinions, religion, national origin, or peaceful lifestyle.
 
 ### PART I: GENERAL PROVISIONS
- 
- 
+
 - **§1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland.
 - **§2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 - **§3.** Where illegally obtained evidence is judged to be admissible in court, those who obtained it remain subject to criminal prosecution.
 
 ### PART II: LEGISLATIVE RESTRICTIONS
-
 
 - **§4.** No ex post facto law shall be passed.
 - **§5.** No Bill of Attainder shall be passed.
@@ -115,7 +112,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 - **§22.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any financial incentive in that respect.
 
 ### PART III: INDIVIDUAL RIGHTS
- 
+
 - **§23.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified, and no information shall be classified unless it is absolutely necessary for the purposes of national security.
 - **§24.** No excessive bail shall be required, nor excessive fines imposed.
 - **§25.** No torture and/or other cruel, unusual, or degrading treatment shall be inflicted by any member of any branch of the Public Administration or with consent and/or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent.

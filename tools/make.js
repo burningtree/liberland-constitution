@@ -10,12 +10,13 @@ var rSubIndex = /^§([\d\(\)]+)/;
 
 request(source, function(err, res, body) {
   var $ = cheerio.load(body);
-  var text = $('.aPreviewText').text().split('\n');
+  var text = $('.aPreviewText').text().replace(/\r/g, '').split('\n');
   var output = [
     '# Free Republic of Liberland Constitution draft\n'
   ];
 
   text.forEach(function(l) {
+    l = l.trim();
     if(l.match(/^Notice/)) {
       l = '> '+l;
     }
@@ -38,7 +39,7 @@ request(source, function(err, res, body) {
     output.push(l);
   });
 
-  fs.writeFileSync(target, output.join('\n'));
+  fs.writeFileSync(target, output.join('\n').replace(/\n\n\n/g, '\n\n'));
   console.log('File save: '+target);
 });
 
