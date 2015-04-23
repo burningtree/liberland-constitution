@@ -5,7 +5,7 @@ var nodePath = require('path');
 
 var source = 'http://liberland.org/en/constitution/';
 var target = nodePath.resolve(__dirname, '../constitution.md');
-var rIndex = /^§([\d]+\.)/;
+var rIndex = /^§([\d]+\.?)\s/;
 var rSubIndex = /^§([\d\(\)]+)/;
 
 request(source, function(err, res, body) {
@@ -28,7 +28,7 @@ request(source, function(err, res, body) {
     }
     if(l.match(rIndex)) {
       l = l.replace(rIndex, function(m) {
-        return '- **' + m + '**';
+        return '- **' + m.trim() + '** ';
       });
     }
     if(l.match(rSubIndex)) {

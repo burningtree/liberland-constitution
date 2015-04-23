@@ -70,7 +70,7 @@ We, the Citizens of the Free Republic of Liberland, in order to establish justic
 ## Article III: The Judicial Power
 
 - **§1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
-  - **§2** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
+- **§2** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
 - **§3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
 - **§4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four others judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
 - **§5.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
